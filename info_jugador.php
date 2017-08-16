@@ -1,4 +1,4 @@
-<html>
+﻿<html>
 <head>
 <script src="Chart.min.js"></script>
     <script src="Chart.bundle.js"></script>

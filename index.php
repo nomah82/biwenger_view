@@ -1,4 +1,4 @@
-<?php
+﻿<?php
 require_once('constantes.php');
 require_once('lib.php');
 $ligas=getMisLigas();
